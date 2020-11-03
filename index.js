@@ -6,5 +6,5 @@ kittens.push("bob")
 return kittens
 }
 function destructivelyPrependKitten(name) {
-  
+
 }
